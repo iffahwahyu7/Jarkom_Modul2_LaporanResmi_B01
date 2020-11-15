@@ -110,15 +110,12 @@ Setelah selesai membuat keseluruhan domain, kamu diminta untuk segera mengatur w
  
 ![alt text](mod2/penanjakan.semerub01.pwjs.png)
  
- 
-Untuk web http://gunung.semeruyyy.pw elum dapat dikonfigurasi pada web server karena enunggu pengerjaan website selesai. 
 14. sedangkan web http://naik.gunung.semeruyyy.pw sudah bisa diakses hanya dengan menggunakan port 8888. *DocumentRoot* berada pada /var/www/naik.gunung.semeruyyy.pw.
  
-Dikarenakan web http://naik.gunung.semeruyyy.pw
 15. Bibah meminta kamu membuat web http://naik.gunung.semeruyyy.pw agar diberi autentikasi password dengan username “semeru” dan password “kuynaikgunung” supaya aman dan tidak sembarang orang bisa mengaksesnya.
- 
-Saat Bibah mengunjungi IP PROBOLINGGO, yang muncul bukan web utama http://semeruyyy.pw melainkan laman default Apache yang bertuliskan “It works!”.
- 
+![alt_text](mod2/nomer15-0.png)
+
+![alt_text](mod2/nomer15.png)
 16. Karena dirasa kurang profesional, maka setiap Bibah mengunjungi IP PROBOLINGGO akan dialihkan secara otomatis ke http://semeruyyy.pw.
  
 ![alt text](mod2/19.JPG)
@@ -128,4 +125,9 @@ Saat Bibah mengunjungi IP PROBOLINGGO, yang muncul bukan web utama http://semeru
 ![alt text](mod2/semerub01.pw.png)
  
 17. Karena pengunjung pada /var/www/penanjakan.semeruyyy.pw/public/images sangat banyak maka semua request gambar yang memiliki substring “semeru” akan diarahkan menuju semeru.jpg.
- 
+
+![alt_text](mod2/nomer16config1.png)
+
+![alt_text](mod2/nomer16config2.png)
+
+![alt_text](mod2/nomer16web.jpg)
