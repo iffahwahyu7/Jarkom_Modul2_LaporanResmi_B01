@@ -111,11 +111,19 @@ Setelah selesai membuat keseluruhan domain, kamu diminta untuk segera mengatur w
 ![alt text](mod2/penanjakan.semerub01.pwjs.png)
  
 14. sedangkan web http://naik.gunung.semeruyyy.pw sudah bisa diakses hanya dengan menggunakan port 8888. *DocumentRoot* berada pada /var/www/naik.gunung.semeruyyy.pw.
+
+![alt_text](mod2/nomer14config1.png)
+
+![alt_text](mod2/nomer14config2.png)
+
+![alt_text](mod2/nomer14web.png)
  
 15. Bibah meminta kamu membuat web http://naik.gunung.semeruyyy.pw agar diberi autentikasi password dengan username “semeru” dan password “kuynaikgunung” supaya aman dan tidak sembarang orang bisa mengaksesnya.
+
 ![alt_text](mod2/nomer15-0.png)
 
 ![alt_text](mod2/nomer15.png)
+
 16. Karena dirasa kurang profesional, maka setiap Bibah mengunjungi IP PROBOLINGGO akan dialihkan secara otomatis ke http://semeruyyy.pw.
  
 ![alt text](mod2/19.JPG)
