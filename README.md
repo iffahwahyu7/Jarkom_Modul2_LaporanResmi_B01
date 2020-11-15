@@ -130,4 +130,4 @@ Setelah selesai membuat keseluruhan domain, kamu diminta untuk segera mengatur w
 
 ![alt_text](mod2/nomer16config2.png)
 
-![alt_text](mod2/nomer16web.jpg)
+![alt_text](mod2/nomer16web.png)
